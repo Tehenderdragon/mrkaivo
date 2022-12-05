@@ -10,7 +10,9 @@
 .ds4.disconnected div {
     display: none;
 }
-
+.ds4.disconnected {
+    display: none;
+}
 .ds4 .triggers {
     width: 598px;
     height: 90px;
